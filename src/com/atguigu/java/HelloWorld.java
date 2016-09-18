@@ -7,5 +7,6 @@ public class HelloWorld {
 		System.out.println("my first git02");
 		System.out.println("my first git03");
 		System.out.println("my first git04");
+		System.out.println("my first git05");
 	}
 }
